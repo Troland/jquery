@@ -30,6 +30,7 @@
 				}
 				return factory( w );
 			};
+			
 	} else {
 		factory( global );
 	}
